@@ -6,4 +6,5 @@
 |   2    |      [HO1](https://github.com/blakeGauna/3013-Algorithms-Gauna/tree/main/Assignments/HO1)       |           Banner Page               |
 |   3    |      [PO1](https://github.com/blakeGauna/3013-Algorithms-Gauna/tree/main/Assignments/PO1)       |           Resizing the Stack               |
 |   4    |      [PO2](https://github.com/blakeGauna/3013-Algorithms-Gauna/tree/main/Assignments/PO2)       |           Processing in Linear Time     |
+|   5    |      [PO3](https://github.com/blakeGauna/3013-Algorithms-Gauna/tree/main/Assignments/PO3)       |           Processing in Trie Tree Time    |
                   
